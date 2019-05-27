@@ -6,4 +6,5 @@ before_install:
   - docker build -t joseahumada/dockertest -f Dockerfile.dev .
 
 script:
-  - docker run joseahumada/dockertest npm run test
+  - docker run joseahumada/dockertest npm run test-coverage
+  
