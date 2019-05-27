@@ -11,7 +11,7 @@ function App() {
           Hi Jose, the app has changed again , check this out ASAP!!!
         </p>
         <p>
-          This was chnaged on the Feature Branch
+          This was changed on the Feature Branch
         </p>
 
 
